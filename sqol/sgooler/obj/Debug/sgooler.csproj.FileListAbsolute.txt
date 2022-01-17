@@ -1,0 +1,14 @@
+D:\sgooler\sgooler\bin\Debug\sgooler.exe.config
+D:\sgooler\sgooler\bin\Debug\sgooler.exe
+D:\sgooler\sgooler\bin\Debug\sgooler.pdb
+D:\sgooler\sgooler\obj\Debug\sgooler.csproj.AssemblyReference.cache
+D:\sgooler\sgooler\obj\Debug\sgooler.csproj.CoreCompileInputs.cache
+D:\sgooler\sgooler\obj\Debug\sgooler.exe
+D:\sgooler\sgooler\obj\Debug\sgooler.pdb
+C:\Users\Olkku\source\repos\sgooler\sgooler\bin\Debug\sgooler.exe.config
+C:\Users\Olkku\source\repos\sgooler\sgooler\bin\Debug\sgooler.exe
+C:\Users\Olkku\source\repos\sgooler\sgooler\bin\Debug\sgooler.pdb
+C:\Users\Olkku\source\repos\sgooler\sgooler\obj\Debug\sgooler.csproj.AssemblyReference.cache
+C:\Users\Olkku\source\repos\sgooler\sgooler\obj\Debug\sgooler.csproj.CoreCompileInputs.cache
+C:\Users\Olkku\source\repos\sgooler\sgooler\obj\Debug\sgooler.exe
+C:\Users\Olkku\source\repos\sgooler\sgooler\obj\Debug\sgooler.pdb
